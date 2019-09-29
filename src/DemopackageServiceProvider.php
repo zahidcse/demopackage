@@ -23,6 +23,6 @@ class DemopackageServiceProvider extends ServiceProvider
      */
     public function boot()
     {
-        dd('HI');
+        
     }
 }
