@@ -1,7 +1,6 @@
 {
     "name": "zahidcse/demopackage",
     "description": "Testing app",
-    "type": "project",
     "license": "MIT",
     "authors": [
         {
